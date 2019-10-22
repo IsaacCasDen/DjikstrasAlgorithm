@@ -1,0 +1,69 @@
+From,To,Distance
+Aspen,Carbondale,29.5
+Aspen,Granite,46.1
+Beaver Creek,Carbondale,66.9
+Beaver Creek,Leadville,39.7
+Beaver Creek,Vail,12.6
+Breckenridge,Fairplay,22.4
+Breckenridge,Frisco,9.6
+Buena Vista,Granite,16.9
+Buena Vista,Hartsel,28.8
+Buena Vista,Nathrop,8
+Carbondale,Aspen,29.5
+Carbondale,Beaver Creek,66.9
+Carbondale,Glenwood Springs,13.2
+Carbondale,Somerset,48.5
+Crawford,Hotchkiss,11.1
+Crawford,Sapinero,43.7
+Crested Butte,Gunnison,27.6
+Crested Butte,Somerset,37.4
+Eagle,Glenwood Springs,41.1
+Fairplay,Breckenridge,22.4
+Fairplay,Garo,10.5
+Frisco,Breckenridge,9.6
+Frisco,Vail,26.4
+Garo,Fairplay,10.5
+Garo,Hartsel,8.2
+Glenwood Springs,Carbondale,13.2
+Glenwood Springs,Eagle,41.1
+Granite,Aspen,46.1
+Granite,Buena Vista,16.9
+Granite,Leadville,33.7
+Guffey,Hartsel,27.2
+Guffey,Texas Creek,38.9
+Gunnison,Crested Butte,27.6
+Gunnison,Parlin,11.7
+Gunnison,Sapinero,24.5
+Hartsel,Buena Vista,28.8
+Hartsel,Garo,8.2
+Hartsel,Guffey,27.2
+Hotchkiss,Crawford,11.1
+Hotchkiss,Paonia,9.3
+Howard,Salida,13.7
+Howard,Texas Creek,19.3
+Leadville,Beaver Creek,39.7
+Leadville,Granite,33.7
+Leadville,Vail,43.2
+Nathrop,Buena Vista,8
+Nathrop,Poncha Springs,17.1
+Paonia,Hotchkiss,9.3
+Paonia,Somerset,9.6
+Parlin,Gunnison,11.7
+Parlin,Sargents,20.5
+Poncha Springs,Nathrop,17.1
+Poncha Springs,Salida,5.1
+Poncha Springs,Sargents,28.4
+Salida,Howard,13.7
+Salida,Poncha Springs,5.1
+Sapinero,Crawford,43.7
+Sapinero,Gunnison,24.5
+Sargents,Parlin,20.5
+Sargents,Poncha Springs,28.4
+Somerset,Carbondale,48.5
+Somerset,Crested Butte,37.4
+Somerset,Paonia,9.6
+Texas Creek,Guffey,38.9
+Texas Creek,Howard,19.3
+Vail,Beaver Creek,12.6
+Vail,Frisco,26.4
+Vail,Leadville,43.2
